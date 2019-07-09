@@ -1,2 +1,2 @@
-# ayusoccer.github.io
+# ayush-parikh.github.io
 Personal Website
